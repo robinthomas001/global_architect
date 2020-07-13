@@ -1,14 +1,13 @@
 
 TITLE: 
-Beam - 100% Fully Responsive Free HTML5 Bootstrap Template
+global Architecture, Uzhavoor
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED by Robin Thomas
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
-
+Website: robinthomas.ml
+Twitter: 
+Facebook: 
 
 CREDITS:
 
